@@ -1,4 +1,4 @@
- CASE SCENARIO
+ CASE SCENARIO.
 
  
  Review the scenario below. Then complete the step-by-step instructions.
